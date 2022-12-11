@@ -1,5 +1,5 @@
-# DUKE UNIVERSITY
-#ME555 / ECE551D -miniproject
+
+# DUKE UNIVERSITY ME555 / ECE551D -miniproject
 
 Path Planning
 ===========================================================================
